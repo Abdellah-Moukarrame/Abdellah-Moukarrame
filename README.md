@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-Moukarrame&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-Moukarrame&layout=compact&hide_border=true&bg_color=050505&title_color=ff003c&text_color=C0C0C0&icon_color=ff003c&border_radius=12)
