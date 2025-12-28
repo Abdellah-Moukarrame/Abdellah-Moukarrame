@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdellah-Moukarrame&layout=compact&hide_border=true&bg_color=050505&title_color=ff003c&text_color=C0C0C0&icon_color=ff003c&border_radius=12&v=1)
+![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
