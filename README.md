@@ -128,6 +128,37 @@ A movie application with filtering and favorites management.
 **Technologies:** React, Redux, JavaScript, CSS
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.zcy.dev/api?username=Abdellah-Moukarrame&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+          height="180"
+          alt="Statistiques GitHub"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Abdellah-Moukarrame&theme=tokyonight&hide_border=true&background=0D1117"
+          height="180"
+          alt="Série de contributions GitHub"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img
+    src="https://stats.hyo.dev/api/github-trophies?login=Abdellah-Moukarrame"
+    alt="Trophées GitHub"
+  />
+</div>
 
 ## 🧠 Currently Learning
 
@@ -142,3 +173,5 @@ Git and GitHub
 CI/CD
 Clean Architecture
 Testing
+
+
